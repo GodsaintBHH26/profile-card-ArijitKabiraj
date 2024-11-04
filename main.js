@@ -3,9 +3,9 @@ import "./style.css";
 document.querySelector("#app").innerHTML = `
 <div class="bg-white w-80 h-2/3 flex text-black  justify-center align-center m-20 rounded-3xl overflow-hidden flex-col ">
 
-<div class="bg-[url('public/img/wave.png')] w-full h-60 bg-cover flex bg-top justify-center items-center -translate-y-8">
+<div class="bg-[url('/img/wave.png')] w-full h-60 bg-cover flex bg-top justify-center items-center -translate-y-8">
 
-<img src="public/img/Profile-pic.jpg" class="h-24 w-24 rounded-full shadow-normal">
+<img src="/img/Profile-pic.jpg" class="h-24 w-24 rounded-full shadow-normal">
 </div>
 
 <div class="-translate-y-20 flex flex-col">
