@@ -27,7 +27,7 @@ document.querySelector("#app").innerHTML = `
 </div>
 
 <div class="flex justify-center translate-y-4">
-<p class="text-center w-60 text-sm font-semibold text-slate-700">Creating and enovating the new me by going through all these challenges everyday. Gaming enthusiast.</p>
+<p class="text-center w-60 text-sm font-semibold text-slate-700">Learning from past experiences and trying to be a better version of myself with each passing day. Everyday we learn something new.</p>
 </div>
 
 <div class="translate-y-14 flex gap-10">
